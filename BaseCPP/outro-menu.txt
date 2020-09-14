@@ -1,0 +1,15 @@
+** Menu com opcoes lidas do arquivo **
+ 1 - Essas opcoes vieram do
+ 2 - disco
+ 3 - # teste
+ 4 - era um simples arquivo
+ 5 - txt com as opcoes
+ 6 - a serem mostradas no menu
+ 7 - Nao precisa de numero
+ 8 - porque o sistema devolve a posicao
+ 9 - delas a partir de 1
+10 - a primeira opcao e' o titulo
+11 - do menu, como em main()
+#teste
+
+15,15,3,50,1
